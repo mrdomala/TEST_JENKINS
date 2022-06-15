@@ -1,0 +1,4 @@
+2022-05-29 15:00:39,564  INFO [main] CucumberRunner:40 - Browser opened sucessfully
+2022-05-29 15:01:13,426  INFO [main] CucumberRunner:48 - User in home page
+2022-05-29 15:01:18,633  INFO [main] CucumberRunner:54 - User navigated to arabic version!
+2022-05-29 15:01:21,719  INFO [main] CucumberRunner:60 - Clicked on login!

@@ -1,0 +1,30 @@
+2022-05-29 14:36:13,827  INFO [main] CucumberRunner:39 - Browser opened sucessfully
+2022-05-29 14:36:26,349  INFO [main] CucumberRunner:47 - User in home page
+2022-05-29 14:36:29,573  INFO [main] CucumberRunner:54 - Clicked on login!
+2022-05-29 14:36:34,718  INFO [main] CucumberRunner:60 - Clicked on login inside the frame!
+2022-05-29 14:36:39,885  INFO [main] CucumberRunner:65 - User moved to National Id and Mobile Number login!
+2022-05-29 14:36:41,066  INFO [main] CucumberRunner:71 - User entered the username as 2206104107
+2022-05-29 14:36:54,249  INFO [main] CucumberRunner:77 - User entered the username as 533862687
+2022-05-29 14:36:54,278  INFO [main] CucumberRunner:83 - yet to click login!
+2022-05-29 14:36:57,434  INFO [main] CucumberRunner:85 - Clicked login!
+2022-05-29 14:36:57,435  INFO [main] CucumberRunner:90 - in loop OTP_0
+2022-05-29 14:37:05,577  INFO [main] CucumberRunner:92 - User entered the static otp_0 text block as : 1
+2022-05-29 14:37:08,690  INFO [main] CucumberRunner:98 - User entered the static otp_1 text block as : 1
+2022-05-29 14:37:11,788  INFO [main] CucumberRunner:104 - User entered the static otp_2 text block as : 1
+2022-05-29 14:37:14,887  INFO [main] CucumberRunner:110 - User entered the static otp_3 text block as : 1
+2022-05-29 14:37:28,048  INFO [main] CucumberRunner:116 - Waiting for logged in user profile screen!
+2022-05-29 14:37:38,051  INFO [main] CucumberRunner:118 - Successfully logged in!
+2022-05-29 14:37:49,978  INFO [main] CucumberRunner:35 - Browser opened sucessfully
+2022-05-29 14:38:13,088  INFO [main] CucumberRunner:42 - User in home page
+2022-05-29 14:38:18,245  INFO [main] CucumberRunner:49 - User navigated to arabic version!
+2022-05-29 14:38:28,376  INFO [main] CucumberRunner:54 - Clicked on login!
+2022-05-29 14:38:28,378  INFO [main] CucumberRunner:59 - Yet to click inside the frame!
+2022-05-29 14:39:40,063  INFO [main] CucumberRunner:36 - Browser opened sucessfully
+2022-05-29 14:40:01,984  INFO [main] CucumberRunner:43 - User in home page
+2022-05-29 14:40:05,167  INFO [main] CucumberRunner:51 - Clicked on login!
+2022-05-29 14:40:07,371  INFO [main] CucumberRunner:57 - Clicked on login inside the frame!
+2022-05-29 14:40:10,531  INFO [main] CucumberRunner:63 - User entered the username as Shaik
+2022-05-29 14:40:13,800  INFO [main] CucumberRunner:69 - User entered the password as Test123456
+2022-05-29 14:40:16,993  INFO [main] CucumberRunner:79 - in loop OTP_0
+2022-05-29 14:40:25,085  INFO [main] CucumberRunner:81 - User entered the static otp_0 text block as : 1
+2022-05-29 14:41:15,642  INFO [main] CucumberRunner:113 - Report gets generated

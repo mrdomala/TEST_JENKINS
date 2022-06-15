@@ -1,0 +1,4 @@
+2022-05-29 10:45:10,025  INFO [main] CucumberRunner:35 - Browser opened sucessfully
+2022-05-29 10:45:36,896  INFO [main] CucumberRunner:43 - User in home page
+2022-05-29 10:45:40,117  INFO [main] CucumberRunner:50 - Clicked on login!
+2022-05-29 10:45:42,201  INFO [main] CucumberRunner:56 - Clicked on login inside the frame!

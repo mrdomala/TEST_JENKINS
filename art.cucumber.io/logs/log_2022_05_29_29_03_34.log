@@ -1,0 +1,8 @@
+2022-05-29 15:29:37,470  INFO [main] CucumberRunner:35 - Browser opened sucessfully
+2022-05-29 15:29:51,044  INFO [main] CucumberRunner:42 - User in home page
+2022-05-29 15:29:58,942  INFO [main] CucumberRunner:49 - User navigated to arabic version!
+2022-05-29 15:30:09,122  INFO [main] CucumberRunner:54 - Clicked on login!
+2022-05-29 15:30:09,124  INFO [main] CucumberRunner:59 - Yet to click inside the frame!
+2022-05-29 15:30:17,298  INFO [main] CucumberRunner:61 - Clicked on login inside the frame!
+2022-05-29 15:30:20,459  INFO [main] CucumberRunner:67 - User entered the username as Shaik
+2022-05-29 15:30:23,633  INFO [main] CucumberRunner:73 - User entered the password as Test123456

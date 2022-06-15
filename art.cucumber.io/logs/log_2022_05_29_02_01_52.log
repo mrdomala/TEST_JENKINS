@@ -1,0 +1,8 @@
+2022-05-29 13:02:55,950  INFO [main] CucumberRunner:39 - Browser opened sucessfully
+2022-05-29 13:03:09,842  INFO [main] CucumberRunner:47 - User in home page
+2022-05-29 13:03:13,255  INFO [main] CucumberRunner:54 - Clicked on login!
+2022-05-29 13:03:18,419  INFO [main] CucumberRunner:60 - Clicked on login inside the frame!
+2022-05-29 13:03:23,594  INFO [main] CucumberRunner:65 - User moved to National Id and Mobile Number login!
+2022-05-29 13:03:24,770  INFO [main] CucumberRunner:71 - User entered the username as 2206104107
+2022-05-29 13:03:37,956  INFO [main] CucumberRunner:77 - User entered the username as 533862687
+2022-05-29 13:03:37,986  INFO [main] CucumberRunner:83 - yet to click login!
